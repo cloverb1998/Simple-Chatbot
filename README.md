@@ -1,5 +1,5 @@
 # Simple Chatbot
-A basic Python chatbot that responds to simple English inputs.
+A basic Python chatbot that responds to simple inputs.
 
 ## Installation
 `bash
