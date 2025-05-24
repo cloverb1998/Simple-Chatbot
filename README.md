@@ -1,7 +1,10 @@
-# House Price Prediction
-A simple Python project to predict house prices using linear regression.
+# Simple Chatbot
+A basic Python chatbot that responds to simple English inputs.
 
 ## Installation
 `bash
-pip install pandas scikit-learn jupyter
-jupyter notebook Price_Prediction.ipynb
+pip install jupyter
+jupyter notebook Simple_Chatbot.ipynb
+
+### Usage
+Run the notebook and try inputs like "hello" or "what's your name"
